@@ -23,12 +23,8 @@ Clothing for QB-Core Framework :dress:
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/66404074/153545004-6337e685-d3a5-478c-8fa2-e50f4b1d2030.png)
-![image](https://user-images.githubusercontent.com/66404074/153545067-aa9269c9-3bbc-4ce2-bbcf-2dfcff6bbc05.png)
-![image](https://user-images.githubusercontent.com/66404074/153545114-0a363fa3-5981-424a-9894-baf15ea1da40.png)
-![image](https://user-images.githubusercontent.com/66404074/153545159-255920cc-baf4-4cbb-a569-29b43298638e.png)
-![image](https://user-images.githubusercontent.com/66404074/153545179-b4958a16-7ec4-4ae6-a341-ba3786c0042d.png)
-![image](https://user-images.githubusercontent.com/66404074/153545214-cb308b2f-9fc4-460b-b630-2dbd80033481.png)
+![image](https://i.imgur.com/jzv5I1s.jpg)
+![image](https://i.imgur.com/YSfeHl3.jpg)
 
 ## Features
 - Configurable Ped Selection
